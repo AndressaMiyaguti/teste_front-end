@@ -1,0 +1,16 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif; */
+
+.bloco_info_I {
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url("./../../imagens/Illustration.svg");
+  background-repeat: no-repeat;
+  background-size: 60%;
+  background-position: right top;
+  overflow: hidden;
+  background-size: contain;
+  object-fit: cover;
+}
